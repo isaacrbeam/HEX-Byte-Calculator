@@ -1,5 +1,6 @@
-# HEX-Byte-Calculator-
-Tool to help determine how many HEX bytes are selected. 
+# HEX-Byte-Calculator
+Tool to help determine how many HEX bytes are selected. Try it out below:
+https://isaacrbeam.github.io/HEX-Byte-Calculator-/hex_tool.html
 
 ![image](https://user-images.githubusercontent.com/23058214/221779432-1d55591b-7204-456f-8394-ad492f2cd025.png)
 
