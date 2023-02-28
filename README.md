@@ -1,5 +1,11 @@
 # HEX-Byte-Calculator
-Tool to help determine how many HEX bytes are selected. Try it out below:
+Tool to help determine how many HEX bytes are selected. 
+
+Try it out:
+
+HEX payload sample:
+53 47 56 73 62 47 38 67 56 32 39 79 62 47 51 68 
+
 https://isaacrbeam.github.io/HEX-Byte-Calculator-/hex_tool.html
 
 ![image](https://user-images.githubusercontent.com/23058214/221779432-1d55591b-7204-456f-8394-ad492f2cd025.png)
